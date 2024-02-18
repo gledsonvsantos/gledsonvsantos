@@ -26,7 +26,7 @@ Engenheiro de Software, especializando-me em soluções escaláveis e inovadoras
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![Gledson GitHub Stats](https://github-readme-stats.vercel.app/api?username=gledsonvsantos&show_icons=true&theme=radical)
 
 ## 📬 Entre em Contato
 - LinkedIn: ![LinkedIn](https://i.stack.imgur.com/gVE0j.png) [Gledson Vicente](https://www.linkedin.com/in/gledson-vicente)
